@@ -5,3 +5,4 @@ create a new branch is quick..
 add dev remote branch ...
 mod in local dev
 test reset
+reset 001
