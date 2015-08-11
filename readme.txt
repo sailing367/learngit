@@ -6,4 +6,3 @@ add dev remote branch ...
 mod in local dev
 test reset
 reset 11
-reset 22
